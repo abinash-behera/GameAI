@@ -3,9 +3,9 @@ This is a personal project to showcase my learning experiences with "Programming
 
 My progress -
 
-Chapter 1   A Math and Physics primer                     Completed
+Chapter 1   A Math and Physics primer --------------------- Completed
 
-Chapter 2   State-Driven Agent Design                     In-Progress
+Chapter 2   State-Driven Agent Design --------------------- In-Progress
 
 Chapter 3   How to create anonymously moving game agents  -
 
